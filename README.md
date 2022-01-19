@@ -1,6 +1,6 @@
 @JacobSimonSays
 
-High School Math Educator
+High School Math Educator located in Chicago, IL
 
 Learning Python, SQL, and Data Science full-time
 
