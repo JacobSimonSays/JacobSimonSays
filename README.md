@@ -2,8 +2,10 @@
 
 High School Math Educator located in Chicago, IL
 
-Learning Python, SQL, and Data Science full-time
+Learning Python, SQL, and Data Analytics full-time
 
-Working towards an entry level Data Analyst position
+Seeking entry level Data Analyst position
 
-Can be reached at simonsays3141@gmail.com
+email: simonsays3141@gmail.com
+
+LinkedIn: linkedin.com/in/jacobsimon3141/
